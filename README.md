@@ -2,7 +2,7 @@
 
 用python实现洛谷聊天
 
-
+# 如果报错400那么改 `lgchat.py` 中的headers!!!
 
 code有些多, 自己访问
 
